@@ -1,0 +1,9 @@
+Package: com.pkgfiles.roundednotifi
+Name: RoundedNotifi
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: Give your Notification Center awesome, rounded Corners!
+Maintainer: pkgFiles
+Author: pkgFiles
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 14.0), com.ginsu.comet

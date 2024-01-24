@@ -1,0 +1,4 @@
+module RoundedNotifiPrefsC {
+    umbrella "."
+    export *
+}
